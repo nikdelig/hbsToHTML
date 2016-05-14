@@ -17,7 +17,10 @@
     "gulp-declare": "^0.3.0",
     "gulp-handlebars": "^4.0.0",
     "gulp-handlebars-html": "0.0.2",
+    "gulp-image": "^1.3.1",
+    "gulp-imagemin": "^3.0.1",
     "gulp-jshint": "^2.0.1",
+    "gulp-less-reporter": "0.0.3",
     "gulp-load-plugins": "^1.2.2",
     "gulp-wrap": "^0.12.0",
     "handlebars": "^4.0.5",
@@ -31,5 +34,13 @@
   },
   "directories": {
     "test": "test"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikdelig/hbsToHTML.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nikdelig/hbsToHTML/issues"
+  },
+  "homepage": "https://github.com/nikdelig/hbsToHTML#readme"
 }
